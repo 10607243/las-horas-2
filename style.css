@@ -1,0 +1,19 @@
+h1#clase1{
+color: maroon;
+text-align: center;
+font-size: 250%;
+}
+
+p.lacarta{
+  color: brown;
+  text-align: left;
+}
+
+p.elcafe {
+  color: brown;
+  text-align: center;
+}
+
+p.contacto {
+  text-align: right;
+}
